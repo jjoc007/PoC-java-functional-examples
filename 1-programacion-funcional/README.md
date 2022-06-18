@@ -1,2 +1,0 @@
-## Programcion funcional:
-
